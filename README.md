@@ -22,16 +22,17 @@ Github有很多超棒的阅读资源，无论是电子书、Blog，还是Awesome
 
 ## Book
 
-|                             仓库                             |                             star                             |          详情           |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------: |
-| [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | [![](https://img.shields.io/github/stars/justjavac/free-programming-books-zh_CN.svg?label=Stars&style=social?style=social)](https://github.com/justjavac/free-programming-books-zh_CN) |  计算机编程类书籍大全   |
-| [Unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) | [![](https://img.shields.io/github/stars/Unknwon/the-way-to-go_ZH_CN.svg?label=Stars&style=social?style=social)](https://github.com/Unknwon/the-way-to-go_ZH_CN) |     《Go 入门指南》     |
-|        [qyuhen/book](https://github.com/qyuhen/book)         | [![](https://img.shields.io/github/stars/qyuhen/book.svg?label=Stars&style=social?style=social)](https://github.com/qyuhen/book) | Go、Python、C语言电子书 |
-| [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) | [![](https://img.shields.io/github/stars/chai2010/advanced-go-programming-book.svg)](https://github.com/chai2010/advanced-go-programming-book) |   《Go语言高级编程》    |
-| [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) | [![](https://img.shields.io/github/stars/HIT-Alibaba/interview.svg)](https://github.com/HIT-Alibaba/interview) |  后端面试基础知识整理   |
-|       [KeKe-Li/book](https://github.com/KeKe-Li/book)        | [![](https://img.shields.io/github/stars/KeKe-Li/book.svg?label=Stars&style=social?style=social)](https://github.com/KeKe-Li/book) |  计算机编程类书籍大全   |
-| [developer-learning/learning-golang](https://github.com/developer-learning/learning-golang) | [![](https://img.shields.io/github/stars/developer-learning/learning-golang.svg)](https://github.com/developer-learning/learning-golang) |         Go大全          |
-| [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books) | [![](https://img.shields.io/github/stars/royeo/awesome-programming-books.svg?label=Stars&style=social?style=social)](https://github.com/royeo/awesome-programming-books) |  计算机编程类书籍大全   |
+|                             仓库                             |                             star                             |                详情                |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :--------------------------------: |
+| [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) | [![](https://img.shields.io/github/stars/justjavac/free-programming-books-zh_CN.svg?label=Stars&style=social?style=social)](https://github.com/justjavac/free-programming-books-zh_CN) |        计算机编程类书籍大全        |
+| [Unknwon/the-way-to-go_ZH_CN](https://github.com/Unknwon/the-way-to-go_ZH_CN) | [![](https://img.shields.io/github/stars/Unknwon/the-way-to-go_ZH_CN.svg?label=Stars&style=social?style=social)](https://github.com/Unknwon/the-way-to-go_ZH_CN) |          《Go 入门指南》           |
+|        [qyuhen/book](https://github.com/qyuhen/book)         | [![](https://img.shields.io/github/stars/qyuhen/book.svg?label=Stars&style=social?style=social)](https://github.com/qyuhen/book) |      Go、Python、C语言电子书       |
+| [chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book) | [![](https://img.shields.io/github/stars/chai2010/advanced-go-programming-book.svg)](https://github.com/chai2010/advanced-go-programming-book) |         《Go语言高级编程》         |
+| [mbinary/USTC-CS-Courses-Resource](https://github.com/mbinary/USTC-CS-Courses-Resource) | [![](https://img.shields.io/github/stars/mbinary/USTC-CS-Courses-Resource.svg)](https://github.com/mbinary/USTC-CS-Courses-Resource) | 中国科学技术大学计算机学院课程资源 |
+| [HIT-Alibaba/interview](https://github.com/HIT-Alibaba/interview) | [![](https://img.shields.io/github/stars/HIT-Alibaba/interview.svg)](https://github.com/HIT-Alibaba/interview) |        后端面试基础知识整理        |
+|       [KeKe-Li/book](https://github.com/KeKe-Li/book)        | [![](https://img.shields.io/github/stars/KeKe-Li/book.svg?label=Stars&style=social?style=social)](https://github.com/KeKe-Li/book) |        计算机编程类书籍大全        |
+| [developer-learning/learning-golang](https://github.com/developer-learning/learning-golang) | [![](https://img.shields.io/github/stars/developer-learning/learning-golang.svg)](https://github.com/developer-learning/learning-golang) |               Go大全               |
+| [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books) | [![](https://img.shields.io/github/stars/royeo/awesome-programming-books.svg?label=Stars&style=social?style=social)](https://github.com/royeo/awesome-programming-books) |        计算机编程类书籍大全        |
 
 ## Blog
 
